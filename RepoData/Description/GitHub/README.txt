@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+A yellow pie chart comes alive in the style of Pacman, and he is hungry for your documents. Go through as many documents as you can before you get killed by fantoms.
